@@ -26,7 +26,7 @@ a:hover {
 body {
     margin: 0;
     height: 100vh;
-    background: linear-gradient(45deg, #0000FF, #ADD8E6); /* Blue to Light Blue gradient */
+    background: linear-gradient(45deg, #0000FF, #ADD8E6);
     font-family: 'Segoe UI', Tahoma, Geneva, sans-serif;
 }
 
